@@ -1,86 +1,55 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Param+Desai;AI+Systems+Engineer;Computer+Vision+%7C+Machine+Learning+%7C+Backend+Systems" />
-</div>
-
----
-
 # Param Desai
 
-B.Tech Computer Science — Nirma University  
-Diploma in Data Science & Programming — IIT Madras  
+**B.Tech in Computer Science** - Nirma University    
 
-I design **AI-powered systems that combine machine learning, data pipelines, and scalable backend architecture.**  
-My work focuses on building **production-oriented ML systems**, not just models.
-
----
-
-# Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramdesai7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paramdesai24)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaiparam24@gmail.com)
-
----
-
-# Tech Stack
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,c,cs,javascript,sql" height="45"/>
-
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=flask,dotnet,vue,bootstrap,redis,sqlite,docker" height="45"/>
-
-### ML / CV Libraries
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" height="45"/>
+I design **AI-powered systems that combine machine learning, data pipelines, and scalable backend architecture.** My work focuses on building **production-oriented ML systems**, bridging the gap between models and clean, deployable software.
 
 ---
 
 # Key Projects
 
-## Voice Copilot — AI Restaurant Revenue Intelligence Agent
-**Tech:** Python, RAG, LLMs, Vector Databases, NLP
-- Conversational AI copilot for restaurant analytics
-- Natural Language → SQL query engine
-- Revenue intelligence recommendations
-- Context-aware restaurant data assistant
+## FIFA World Cup 2026 - Simulation, Analytics & Auction Lobbies
+**Tech:** React, TypeScript, FastAPI, Python, PostgreSQL, SQLAlchemy, WebSockets
+- Full-stack tournament simulation and football analytics platform featuring a ratings calculation engine (Elo propagation & squad valuations).
+- Features explainable match forecasting models and Monte Carlo simulator for running up to 10,000 simulations to track route-to-final brackets.
+- Concurrency-safe, WebSocket-driven live draft auction rooms for real-time player nominations, bidding, and budget tracking.
 
-🔗 https://github.com/luvp21/Voice-Copilot-AI-Restaurant-Agent
-
----
-
-## VeloPark — Smart Parking Management Platform
-**Tech:** Flask, SQLite, Redis, Celery, JWT, Vue 3, Bootstrap
-- Full-stack parking management system
-- Role-based authentication
-- REST APIs with background task scheduling
-- Multi-user parking allocation system
-
-🔗 https://github.com/paramdesai24/VeloPark
+🔗 [GitHub Repository](https://github.com/paramdesai24/football_wc_platform)
+🔗 [Live Link](https://fc-analytics.vercel.app/)
 
 ---
 
-## Offline Research Assistant
-**Tech:** Python, Streamlit, NLP, OCR, TTS
-- Converts research papers into structured summaries
-- Section-aware NLP pipeline
-- OCR fallback for scanned PDFs
-- Automatic PPT and audio generation
+## Bhoomi - Urban Environmental Analytics & Forecasting Platform
+**Tech:** React 18, Express, PostgreSQL, Flask, PyTorch, Prophet, XGBoost, Tailwind CSS
+- Full-stack urban environmental intelligence platform for grid-level monitoring, forecasting, and intervention recommendations.
+- Multi-model ML pipeline (Prophet, PyTorch LSTM, XGBoost) predicting Land Surface Temperature (LST), drought risk, and pollution.
+- Rules-based spatial prescription engine and causal attribution models for targeted urban planning interventions.
+- Interactive map-based grid dashboard built with React-Leaflet and Recharts, backed by a Node.js REST API.
 
-🔗 https://github.com/paramdesai24/researchassistant
+🔗 [GitHub Repository](https://github.com/paramdesai24/bhoomi-satellite)
+🔗 [Live Link](https://bhoomi-satellite.vercel.app/)
+
+---
+
+## Voice Copilot - AI Restaurant Revenue Intelligence Agent
+**Tech:** Python, RAG, LLMs, Vector Databases, NLP, SQL
+- Conversational AI copilot for restaurant analytics and business intelligence.
+- Developed a robust Natural Language-to-SQL query engine enabling non-technical stakeholders to query sales and operations.
+- Generates context-aware revenue recommendations and highlights operational anomalies.
+
+🔗 [GitHub Repository](https://github.com/paramdesai24/voice-copilot)
 
 ---
 
 # Focus Areas
-- Computer Vision Systems
-- Deep Learning Pipelines
-- Backend Engineering
-- AI + Web Integration
-- ML System Design
+* **ML System Design** (End-to-end pipelines, model inference optimization)
+* **Computer Vision Systems** (Deep learning pipelines & custom OpenCV solutions)
+* **Backend Engineering** (Scalable APIs, database optimization, caching layers)
+* **AI + Web Integration** (Deploying intelligence models inside interactive apps)
 
 ---
 
-# Current Work
-- AI Copilot Systems
-- Computer Vision Pipelines
-- ML Infrastructure
-- Backend Architecture
+# Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramdesai7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaiparam24@gmail.com)
