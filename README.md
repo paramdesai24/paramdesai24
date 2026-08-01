@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/bf39840f-214c-453b-8236-62d1d6c8f3e1.gif" width="50%" alt="pixel-art-readme-gifs">
 
-# Param Desai
+# Hi there, I am Param
 
 **B.Tech Computer Science @ Nirma University**  
 **IIT Madras - Diploma in Programming & Data Science**
