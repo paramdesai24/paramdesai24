@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="620" alt="Pixel-art desk at night with a stock chart and football pitch on twin CRT monitors">
+  <img src="./banner.png" width="550" alt="Pixel-art desk at night with a stock chart and football pitch on twin CRT monitors">
 
   <h2><samp>hi, i'm param.</samp></h2>
 
